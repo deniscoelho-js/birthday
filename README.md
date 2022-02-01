@@ -1,5 +1,7 @@
 # Birthday
 
+<img width="1369" alt="Captura de Tela 2022-02-01 às 09 11 14" src="https://user-images.githubusercontent.com/83840866/151966490-774661ca-20c2-4fe1-b042-891752a7bc8b.png">
+
 ## Tecnologias
 
 - [`React`]()
